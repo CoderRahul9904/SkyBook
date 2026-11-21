@@ -1,0 +1,12 @@
+# Local SkyBook runtime configuration (contains credentials)
+backend/src/main/resources/application.properties
+
+# Maven build output
+backend/target/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
